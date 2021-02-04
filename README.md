@@ -1,7 +1,7 @@
 # Javascript30
 
 [JavaScript 30 Challenge](https://javascript30.com/)
-![javascript_30](Images/JS30.png)
+![javascript_30](Images/JS30.PNG)
 
 ## List of Exercises
 
