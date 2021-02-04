@@ -4,7 +4,7 @@
 
 ## List of Exercises
 
-1. [JavaScript Drum Kit](https://github.com/masitamohamad/Javascript30/01-JavaScript_Drum_Kit/index.html)
+1. [JavaScript Drum Kit](https://masitamohamad.github.io/Javascript30/01-JavaScript_Drum_Kit/index.html)
 2. CSS + JS Clock
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
