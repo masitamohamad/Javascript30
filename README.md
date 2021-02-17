@@ -5,7 +5,7 @@
 ## List of Exercises
 
 1. [JavaScript Drum Kit](https://masitamohamad.github.io/Javascript30/01-JavaScript_Drum_Kit/index.html)
-2. [CSS + JS Clock](https://masitamohamad.github.io/Javascript30/02-JS_and_CSS Clock/index.html)
+2. [CSS + JS Clock](https://masitamohamad.github.io/Javascript30/02-JS_and_CSS_Clock/index.html)
 3. Playing with CSS Variables and JS
 4. Array Cardio Day 1
 5. Flex Panels Image Gallery
