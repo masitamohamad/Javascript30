@@ -6,7 +6,7 @@
 
 1. [JavaScript Drum Kit](https://masitamohamad.github.io/Javascript30/01-JavaScript_Drum_Kit/index.html)
 2. [CSS + JS Clock](https://masitamohamad.github.io/Javascript30/02-JS_and_CSS_Clock/index.html)
-3. Playing with CSS Variables and JS
+3. [Playing with CSS Variables and JS](https://masitamohamad.github.io/Javascript30/03-CSS_Variables/index.html)
 4. Array Cardio Day 1
 5. Flex Panels Image Gallery
 6. Ajax Type Head
